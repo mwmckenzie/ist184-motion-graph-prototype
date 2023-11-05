@@ -1,0 +1,10 @@
+﻿<country scalerank="4" featurecla="Admin-0 country" labelrank="6" sovereignt="United Kingdom" sov_a3="GB1" adm0_dif="1" level="2" type="Country" admin="Guernsey" adm0_a3="GGY" geou_dif="0" geounit="Guernsey" gu_a3="GGY" su_dif="0" subunit="Guernsey" su_a3="GGY" brk_diff="0" name="Guernsey" name_long="Guernsey" brk_a3="GGY" brk_name="Guernsey" brk_group="Channel Islands" abbrev="Guern." postal="GG" formal_en="Bailiwick of Guernsey" formal_fr="" name_ciawf="Guernsey" note_adm0="U.K. crown dependency" note_brk="" name_sort="Guernsey" name_alt="" mapcolor7="6" mapcolor8="6" mapcolor9="6" mapcolor13="3" pop_est="66502" pop_rank="8" gdp_md_est="3465" pop_year="2017" lastcensus="2001" gdp_year="2015" economy="2. Developed region: nonG7" income_grp="2. High income: nonOECD" wikipedia="-99" fips_10_="GK" iso_a2="GG" iso_a3="GGY" iso_a3_eh="GGY" iso_n3="831" un_a3="831" wb_a2="JG" wb_a3="CHI" woe_id="23424827" woe_id_eh="23424827" woe_note="Exact WOE match as country" adm0_a3_is="GGY" adm0_a3_us="GGY" adm0_a3_un="-99" adm0_a3_wb="-99" continent="Europe" region_un="Europe" subregion="Northern Europe" region_wb="Europe &amp; Central Asia" name_len="8" long_len="8" abbrev_len="6" tiny="-99" homepart="-99" min_zoom="0" min_label="5" max_label="10">
+	<coordinates coordType="gcs" typeName="wgs-84" geometryType="polygon" usage="border">
+		<vertex lon="-2.512304687499977" lat="49.49453125"/>
+		<vertex lon="-2.639013671874977" lat="49.450927734375"/>
+		<vertex lon="-2.646142578124994" lat="49.468212890624997"/>
+		<vertex lon="-2.542187499999983" lat="49.506591796875"/>
+		<vertex lon="-2.520898437499994" lat="49.506298828124997"/>
+		<vertex lon="-2.512304687499977" lat="49.49453125"/>
+	</coordinates>
+</country>

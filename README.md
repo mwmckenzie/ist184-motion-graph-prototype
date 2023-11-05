@@ -8,6 +8,12 @@ https://mwmckenzie.github.io/ist184-motion-graph-prototype/
 
 <br/>
 
+## Legend
+### Dots
+- Blue: AIS Traffic (Proportional To Observed Numbers)
+- Orange: Waypoint Locations (Observed)
+- Purple: Port Locations
+
 ## Basic Controls
 ### Panning
 - Up: W

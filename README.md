@@ -14,6 +14,8 @@ https://mwmckenzie.github.io/ist184-motion-graph-prototype/
 - Orange: Waypoint Locations (Observed)
 - Purple: Port Locations
 
+<br/>
+
 ## Basic Controls
 ### Panning
 - Up: W
